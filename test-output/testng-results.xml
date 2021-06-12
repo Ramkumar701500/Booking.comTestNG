@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-12T10:49:22 IST" name="Default suite" finished-at="2021-06-12T10:49:37 IST" duration-ms="14473">
+    <groups>
+    </groups>
+    <test started-at="2021-06-12T10:49:22 IST" name="Default test" finished-at="2021-06-12T10:49:37 IST" duration-ms="14473">
+      <class name="LoginTestSuite.TC_LOGIN_01">
+        <test-method signature="browserSetup()[pri:0, instance:LoginTestSuite.TC_LOGIN_01@34f5090e]" started-at="2021-06-12T10:49:22 IST" name="browserSetup" finished-at="2021-06-12T10:49:31 IST" duration-ms="8756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="openLoginUrl()[pri:1, instance:LoginTestSuite.TC_LOGIN_01@34f5090e]" started-at="2021-06-12T10:49:31 IST" name="openLoginUrl" finished-at="2021-06-12T10:49:35 IST" duration-ms="4366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginUrl -->
+        <test-method signature="enterValidEmailAddress()[pri:2, instance:LoginTestSuite.TC_LOGIN_01@34f5090e]" started-at="2021-06-12T10:49:35 IST" name="enterValidEmailAddress" finished-at="2021-06-12T10:49:35 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValidEmailAddress -->
+        <test-method signature="clickContinueButton()[pri:3, instance:LoginTestSuite.TC_LOGIN_01@34f5090e]" started-at="2021-06-12T10:49:35 IST" name="clickContinueButton" finished-at="2021-06-12T10:49:36 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContinueButton -->
+        <test-method signature="enterValidPassword()[pri:4, instance:LoginTestSuite.TC_LOGIN_01@34f5090e]" started-at="2021-06-12T10:49:36 IST" name="enterValidPassword" finished-at="2021-06-12T10:49:36 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValidPassword -->
+        <test-method signature="clickSignInButton()[pri:5, instance:LoginTestSuite.TC_LOGIN_01@34f5090e]" started-at="2021-06-12T10:49:36 IST" name="clickSignInButton" finished-at="2021-06-12T10:49:37 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignInButton -->
+      </class> <!-- LoginTestSuite.TC_LOGIN_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
